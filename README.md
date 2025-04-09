@@ -24,6 +24,9 @@ Extract actionable insights to optimize marketing strategies, enhance customer e
 ### Research: 
 Conduct research on credit card usage, consumer behavior, or related topics in the Indian context.
 
+# Technogies:
+Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX Language Data Modeling.
+
 ## Dashboard.
 
 ![Credit Card Spending in India](https://github.com/user-attachments/assets/1d89f70c-77c8-45e1-9933-0e920e517d69)

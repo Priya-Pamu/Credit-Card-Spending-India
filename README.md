@@ -27,7 +27,27 @@ Conduct research on credit card usage, consumer behavior, or related topics in t
 # Technogies:
 Microsoft Excel, Power BI (Business Intelligence Tool), Power Query Editor, DAX Language Data Modeling.
 
+## Steps covered:
+ > 🌐Imported data from MS Excel to Power BI
+ 
+ > 🪄Data transformation in Power Query editor
+ 
+ > ⚒️Made measures important for Dashboarding
+ 
+ > 📊Setup Dashboard background
+ 
+ > Set-up Dashboard Theme >Format Visuals
+ 
+ > Overall rating visualization
+ 
+ > Dashboard formatting
+
+
 ## Dashboard.
 
 ![Credit Card Spending in India](https://github.com/user-attachments/assets/1d89f70c-77c8-45e1-9933-0e920e517d69)
+
+ # Links :-
+    I've shared all the necessary files, datasets, workbooks, and icons above. Please feel free to utilize these resources for your upcoming projects.
+    If you find value in this project and dashboard, consider giving it a star or simply let me know. Your feedback would be greatly appreciated! 
 
